@@ -41,3 +41,7 @@ uvicorn main:app --reload
 ````
 https://myaccount.google.com/apppasswords 
 ````
+# Main Url 
+````
+{ip}/docs
+````
