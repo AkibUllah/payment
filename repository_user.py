@@ -48,8 +48,8 @@ class SendEmailVerify:
 
     @classmethod
     def send_payment_verify(cls, user_name, email):
-        email_address = "jaforakib@gmail.com"  # type Email
-        email_password = "pmbi pfpo giog ecpr"  # If you do not have a gmail apps password, create a new app with
+        email_address = "demo@gmail.com"  # type Email
+        email_password = "89090898098"  # If you do not have a gmail apps password, create a new app with
         # using generate password. Check your apps and passwords
         # https://myaccount.google.com/apppasswords
 
